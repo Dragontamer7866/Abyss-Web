@@ -455,17 +455,17 @@ const openNewtab = () => {
 };
 
 let splashtext = [
-  "check out discord.gg/goabyss",
-  "made by paxton warin",
-  "want your own link? check out discord.gg/goabyss",
-  "thanks for using the site!",
-  "check out the settings page",
-  "check out the games page",
-  "check out the settings to hide from your teacher",
-  "need ChatGPT? search for it on the games page!",
-  "shoutout owen, ramsey, and levi",
-  "co owned by wyatt batdorf",
-  "enzo is interesting...",
+  "Why Googge? BECAUSE YES! :D",
+  "GOOGGE FISH!",
+  "We don't get paid here at Googge!",
+  "[ REDACTED ] eats our products (An actual job here)",
+  "Googge comics? yeah I think...",
+  "What the Googge",
+  "It's just a web of Googge",
+  "LOOK AT THE TO-DO LIST! -The CEO",
+  "Mr. Pigson is so sigma",
+  "Welcome to the Googge Web!",
+  "GOOGGE WORKERS ONLY",
 ]
 
 const runService = async (url, override, overrideadrbar) => {
