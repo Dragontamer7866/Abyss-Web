@@ -466,6 +466,7 @@ let splashtext = [
   "Mr. Pigson is so sigma",
   "Welcome to the Googge Web!",
   "GOOGGE WORKERS ONLY",
+  "< ' ) ) ) ><",
 ]
 
 const runService = async (url, override, overrideadrbar) => {
